@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Cael!
+# 👋 Olá, eu sou o Carlos Daniel (Cael)!
 
 🎓 Atualmente finalizando o ensino médio  
 💻 Estudando **Python do básico ao avançado** na Udemy  
