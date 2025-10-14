@@ -2,7 +2,8 @@
 
 🎓 Atualmente finalizando o ensino médio  
 💻 Estudando **Python do básico ao avançado** na Udemy  
-🚀 Pretendo cursar **Engenharia de Software** no próximo ano 
+🚀 Pretendo cursar **Engenharia de Software** no próximo ano
+
 💡 Meu objetivo: trabalhar como **programador** (foco em back-end e engenharia de software)
 
 ---
@@ -16,7 +17,7 @@
 
 ## 🧩 Projetos em andamento
 - Exercícios e desafios em Python (do básico ao intermediário)
-- Experimentos com e back-end
+- Experimentos com back-end
 
 ---
 
